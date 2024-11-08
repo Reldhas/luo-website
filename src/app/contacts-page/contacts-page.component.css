@@ -1,0 +1,14 @@
+.contact-page {
+    display: flex;
+    margin-bottom: 1em;
+}
+
+.map {
+    border: 1px solid black;
+    height: 30em;
+    width: 40em;
+}
+
+.contact-info ul{
+ list-style:symbols();
+}

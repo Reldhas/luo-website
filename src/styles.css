@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    margin: 0px;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.light-font {
+    color: rgb(169, 169, 169);
+}
+
+.bg-dark {
+    background-color: rgb(34, 34, 34);
+}
